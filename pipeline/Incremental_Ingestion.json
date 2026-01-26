@@ -295,16 +295,13 @@
 		],
 		"parameters": {
 			"schema": {
-				"type": "String",
-				"defaultValue": "dbo"
+				"type": "String"
 			},
 			"table": {
-				"type": "string",
-				"defaultValue": "DimUser"
+				"type": "string"
 			},
 			"cdc_col": {
-				"type": "string",
-				"defaultValue": "updated_at"
+				"type": "string"
 			}
 		},
 		"variables": {
